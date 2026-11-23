@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: jdbc
+
+database:
+  url: jdbc:postgresql://localhost:5432/db
+  username: postgres
+  password:
+  max-pool-size: 10
+  min-idle: 2
