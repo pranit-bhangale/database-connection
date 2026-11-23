@@ -1,0 +1,33 @@
+# Spring Boot / Java
+target/
+*.class
+
+# Gradle
+.gradle/
+build/
+
+# Logs
+logs/
+*.log
+
+# Environment / local files
+.env
+*.pem
+*.local
+
+# Private key / secret directories
+key/
+keys/
+ssl/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
